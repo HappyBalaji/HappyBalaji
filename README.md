@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Balaji Ramadoss
-- 👀 I’m interested in Software Developing/.
-- 🌱 I’m currently a Job seeker
+- 👀 I’m interested in Software Developing.
 - 💞️ I started my career as a web app developer at Ananthan Cloud Solutions Pvt. Ltd.
 - 📫 Email: balaji.r.772000@gmail.com
 
