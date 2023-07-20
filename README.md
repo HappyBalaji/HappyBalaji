@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Balaji Ramadoss
-- 👀 I’m interested in Software Developing/ Software Testing/ Software Related Jobs
+- 👀 I’m interested in Software Developing/.
 - 🌱 I’m currently a Job seeker
-- 💞️ I’m looking for a opportunutiy to develop my career.
-- 📫 Ph. No. 9080125083, Email: balaji77kanaga@gmail.com 
+- 💞️ I started my career as a web app developer at Ananthan Cloud Solutions Pvt. Ltd.
+- 📫 Email: balaji.r.772000@gmail.com
 
 <!---
 HappyBalaji/HappyBalaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
